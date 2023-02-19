@@ -4,96 +4,96 @@
 "name": "Rinkesh",
 "age": 24,
 "location": "Faridabad",
-"profession": "Web-13",
-"batch": "FSD",
+"profession": "FSD",
+"batch": "Web-13",
 "id": 1
 },
 {
 "name": "Abishek",
 "age": 25,
 "location": "Mumbai",
-"profession": "Web-14",
-"batch": "Fronted",
+"profession": "Fronted",
+"batch": "Web-14",
 "id": 2
 },
 {
 "name": "Nitish",
 "age": 24,
 "location": "Faridabad",
-"profession": "Web-15",
-"batch": "Backend",
+"profession": "Backend",
+"batch": "Web-15",
 "id": 3
 },
 {
 "name": "Shekhar",
 "age": 23,
 "location": "Delhi",
-"profession": "Web-16",
-"batch": "Student",
+"profession": "Student",
+"batch": "Web-16",
 "id": 4
 },
 {
 "name": "Rajesh",
 "age": 27,
 "location": "Mumbai",
-"profession": "Web-13",
-"batch": "FSD",
+"profession": "Student",
+"batch": "Web-16",
 "id": 5
 },
 {
 "name": "Aman",
 "age": 29,
 "location": "Bihar",
-"profession": "Web-14",
-"batch": "Fronted",
+"profession": "Backend",
+"batch": "Web-15",
 "id": 6
 },
 {
 "name": "Vimal",
 "age": 30,
 "location": "Faridabad",
-"profession": "Web-19",
-"batch": "Backend",
+"profession": "Fronted",
+"batch": "Web-14",
 "id": 7
 },
 {
 "name": "Raj",
 "age": 32,
 "location": "Delhi",
-"profession": "Web-18",
-"batch": "Student",
+"profession": "FSD",
+"batch": "Web-13",
 "id": 8
 },
 {
 "name": "Vipin",
 "age": 30,
 "location": "Faridabad",
-"profession": "Web-15",
-"batch": "FSD",
+"profession": "FSD",
+"batch": "Web-17",
 "id": 9
 },
 {
 "name": "Abishek",
 "age": 29,
 "location": "Delhi",
-"profession": "Web-18",
-"batch": "Fronted",
+"profession": "FSD",
+"batch": "Web-18",
 "id": 10
 },
 {
 "name": "Luv Kumar",
 "age": 24,
 "location": "Punjab",
-"profession": "Web-14",
-"batch": "Backend",
+"profession": "Backend",
+"batch": "Web-19",
 "id": 11
 },
 {
 "name": "Shekhar",
 "age": 23,
 "location": "Delhi",
-"profession": "Web-16",
-"batch": "Student",
+"profession": "Backend",
+"batch": "Web-19",
 "id": 12
 }
 ]
